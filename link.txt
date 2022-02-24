@@ -1,0 +1,2 @@
+Documentation for intents 
+https://cloud.google.com/dialogflow/es/docs/reference/rest/v2/projects.agent.sessions/detectIntent
