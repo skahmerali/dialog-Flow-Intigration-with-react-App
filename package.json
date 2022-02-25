@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
-  "homepage": "https://skahmerali.github.io",
+  "homepage": "https://skahmerali.github.io/dialog-Flow-Intigration-with-react-App",
   "scripts": {
     "start": "node server.mjs",
     "dev": "nodemon server.mjs",
